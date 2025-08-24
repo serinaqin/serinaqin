@@ -1,4 +1,46 @@
-## Hi there 👋
+# Hi, I'm Zhenzhen (Serina) Qin! 🐾  
+🚀 Open to SDE / MLE Roles for 2025 / 2026 FT & COOP 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhenzhen-qin)  
+
+---
+
+### 👩‍💻 About Me  
+- 🎓 MS in Computer Science @ **Northeastern University (Silicon Valley)**, GPA 4.0/4.0  
+- ☁️ Ex-Software Engineer Intern @ **Amazon Web Services (AWS)** – Financial Technology
+- ☁️ Research Assistant @ **Northeastern University** – Nurse Town: AI in Healthcare
+- ☁️ Teaching Assistant @ **Northeastern University** – Algorithms & Database Management Systems
+- 💡 Passionate about **Full-stack development, scalable systems and GenAI**  
+
+---
+
+### 🛠️ Tech Stack  
+**Languages:** Java, Python, C, Go, Lua, JavaScript, TypeScript, Kotlin, C#  
+**Frameworks & Tools:** Spring Boot, Django, Node.js, React, Docker, Kubernetes, LangChain  
+**Cloud:** AWS (Bedrock, Lambda, S3, RDS, DynamoDB, NeptuneDB), GCP (Cloud Run, GCS)  
+**Databases:** MySQL, PostgreSQL  
+**CI/CD:** AWS Amplify, Cloud Build, Jenkins
+
+---
+
+### 📌 Featured Projects  
+
+#### 🎓 Career Fair Registration System  
+[▶️ Demo](https://youtu.be/gswfMC6qBzI)
+
+#### 🏥 Nurse Town: VOICE - Virtual Observation & Interactive Clinical Education  
+[🌐 Official Site](https://www.voice-sim.org)  
+
+---
+<!--
+### 📊 GitHub Stats  
+![Serina's GitHub stats](https://github-readme-stats.vercel.app/api?username=serinaqin&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serinaqin&layout=compact&theme=tokyonight)  
+
+---
+-->
+✨ I love building impactful products & connecting with amazing people. Feel free to reach out!  
+
 
 <!--
 **serinaqin/serinaqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
