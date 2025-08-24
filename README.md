@@ -9,7 +9,7 @@
 - 🎓 MS in Computer Science @ **Northeastern University (Silicon Valley)**, GPA 4.0/4.0  
 - ☁️ Ex-Software Engineer Intern @ **Amazon Web Services (AWS)** – Financial Technology
 - ☁️ Research Assistant @ **Northeastern University** – Nurse Town: AI in Healthcare
-- ☁️ Teaching Assistant @ **Northeastern University** – Algorithms & Database Management Systems
+- ☁️ Teaching Assistant @ **Northeastern University** – 1. Algorithms 2. Database Management Systems
 - 💡 Passionate about **Full-stack development, scalable systems and GenAI**  
 
 ---
