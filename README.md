@@ -1,6 +1,4 @@
 # Hi, I'm Zhenzhen (Serina) Qin! 🐾  
-🚀 Open to SDE / MLE Roles for 2025 / 2026 FT & COOP 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhenzhen-qin)  
 
 ---
@@ -8,7 +6,7 @@
 ### 👩‍💻 About Me  
 - 🎓 MS in Computer Science @ **Northeastern University (Silicon Valley)**, GPA 4.0/4.0  
 - ☁️ Ex-Software Engineer Intern @ **Amazon Web Services (AWS)** – Financial Technology
-- ☁️ Research Assistant @ **Northeastern University** – Nurse Town: AI in Healthcare
+- ☁️ Research Assistant @ **Northeastern University** – Nurse Town: AI in Healthcare; @ **Ability Central grant** - YouDescribe: AI for Accessibility
 - ☁️ Teaching Assistant @ **Northeastern University** – 1. Algorithms 2. Database Management Systems
 - 💡 Passionate about **Full-stack development, scalable systems and GenAI**  
 
@@ -25,11 +23,14 @@
 
 ### 📌 Featured Projects  
 
-#### 🎓 Career Fair Registration System  
+#### Career Fair Registration System  
 [▶️ Demo](https://youtu.be/gswfMC6qBzI)
 
-#### 🏥 Nurse Town: VOICE - Virtual Observation & Interactive Clinical Education  
+#### Nurse Town: VOICE - Virtual Observation & Interactive Clinical Education  
 [🌐 Official Site](https://www.voice-sim.org)  
+
+#### YouDescribe: Audio Description for YouTube Videos for Blind and Low Vision People  
+[🌐 Official Site]((https://ydx.youdescribe.org/home)
 
 ---
 <!--
