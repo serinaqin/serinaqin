@@ -30,7 +30,7 @@
 [🌐 Official Site](https://www.voice-sim.org)  
 
 #### YouDescribe: Audio Description for YouTube Videos for Blind and Low Vision People  
-[🌐 Official Site]((https://ydx.youdescribe.org/home)
+[🌐 Official Site](https://ydx.youdescribe.org/home)
 
 ---
 <!--
